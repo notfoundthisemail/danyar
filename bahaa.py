@@ -125,7 +125,7 @@ def usernamee():
     }
     filer = open("id.txt","w")
     cvv = []
-    os.system("cls")
+    os.system("clear")
     print("Press CTRL + C THEN ENTER TO STROP ADD KEYWORD")
     print("-----------------------------------")
     while True:
