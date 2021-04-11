@@ -218,7 +218,7 @@ def cheker():
         hamaa=hama.findall(get.text)
         bahaa = baha.findall(get.text)
         for xd in hamaa:
-            print(xd)
+            
 
             
             if '@gmail.com' in xd:
